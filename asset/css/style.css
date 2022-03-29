@@ -1,5 +1,11 @@
 * {
     background: rgb(30, 167, 167);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: aliceblue;
+    background-color: gray;
 }
 
 header{
@@ -38,4 +44,39 @@ h1 {
     background-color: aliceblue;
     color: black;
     cursor: pointer;
+}
+
+.image1 {
+    margin: 5px 5px 5px 5px;
+    max-width: 200px;
+    max-height: 350px;
+    border-radius: 8px;
+}
+
+.image {
+    margin: 5px 5px 5px 5px;
+    height: 350px;
+    border-radius: 8px;
+}
+
+#pics {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+a {
+    border: 300px 300px 300px 300px;
+}
+
+#a2 :hover{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 400px) {
+    
+}
+footer {
+    text-align: center;
 }
