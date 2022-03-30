@@ -1,11 +1,26 @@
 * {
-    background: rgb(30, 167, 167);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 2spx;
+    padding: 0%;
+    box-sizing: border-box;
+    background: rgb(10, 211, 211);
+}
+body {
+    height: 100%;
+}
+h1{
+    border: 15px;
+    padding-top: 25px;
+}
+
+p{
+    font-size: 20px;
 }
 
 a {
     color: aliceblue;
     background-color: gray;
+    border: 300px 300px 300px 300px;
 }
 
 header{
@@ -20,9 +35,12 @@ h1 {
     font-size: 40px;
 }
 
+.p1{
+    border: 5px dotted black;
+    padding: 20px;
+}
+
 .hold {
-    display: flex;
-    flex-direction: row;
     display: inline;
     float: right;
     text-align: center;
@@ -37,7 +55,7 @@ h1 {
     background-color: gray;
     border-radius: 5px;
     transition: ease-out .5s;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .button1:hover {
@@ -59,19 +77,45 @@ h1 {
     border-radius: 8px;
 }
 
-#pics {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+.text {
+    position: relative;
 }
 
-a {
-    border: 300px 300px 300px 300px;
+.a3 {
+    width: 500px;
+    height: 400px;
+    border-radius: 60px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#p2{
+    text-indent: 35px;
+}
+
+#Intro {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pics {
+  margin-left: 250px;
+  margin-right: 0%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 #a2 :hover{
     cursor: pointer;
+}
+
+#line {
+    border: none;
 }
 
 @media screen and (max-width: 400px) {
