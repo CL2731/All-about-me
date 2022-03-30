@@ -8,7 +8,7 @@ https://www.linkedin.com/feed/
 
 https://github.com/CL2731
 
-:clilos018@gmail.com
+clilos018@gmail.com
 
 Prieview
 ![image](https://user-images.githubusercontent.com/100871996/160743816-5e922cb8-152c-4870-acee-4f1ab92288f7.png)
