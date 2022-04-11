@@ -1,8 +1,11 @@
 # All-about-me
-Site Summary
+### Site Summary
 This website is intended to provide a small introduction to me. It contains a photos, summary of who I am, two projects that I worked, and a few ways to get to know more about me as well as get ahold of me.
 
-Here are the links provided on the website:
+### Link to site
+https://cl2731.github.io/All-about-me/
+
+### Here are the links provided on the website:
 
 https://www.linkedin.com/feed/
 
@@ -10,9 +13,10 @@ https://github.com/CL2731
 
 clilos018@gmail.com
 
-Prieview
+### Preview
 ![image](https://user-images.githubusercontent.com/100871996/160743816-5e922cb8-152c-4870-acee-4f1ab92288f7.png)
 
+### Code snippest
 This Website was made using both idex.html and CSS
 
 ![code allaboutme](https://user-images.githubusercontent.com/100871996/160743912-448756c0-2d72-4058-9d27-f189e9305b12.PNG)
